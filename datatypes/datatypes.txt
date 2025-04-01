@@ -1,0 +1,31 @@
+In C++, data types specify the type of data that a variable can hold. Here are the primary data types in C++:
+
+1. **Basic Data Types**:
+    - `int`: Used to store integers (whole numbers). Example: 1, -5, 100.
+    - `float`: Used to store single-precision floating-point numbers. Example: 3.14, -0.01.
+    - `double`: Used to store double-precision floating-point numbers. Example: 3.14159.
+    - `char`: Used to store a single character. Example: 'a', 'Z'.
+    - `bool`: Used to store boolean values (`true` or `false`).
+
+2. **Derived Data Types**:
+    - `array`: A collection of elements of the same type stored in contiguous memory locations.
+    - `pointer`: A variable that stores the memory address of another variable.
+    - `reference`: An alias for another variable.
+
+3. **Void Type**:
+    - `void`: Represents the absence of any type. Commonly used for functions that do not return a value.
+
+4. **User-Defined Data Types**:
+    - `struct`: A collection of variables (of different types) grouped together.
+    - `class`: A blueprint for creating objects, encapsulating data and methods.
+    - `enum`: A user-defined type consisting of a set of named integral constants.
+
+5. **Modifiers**:
+    - `signed` and `unsigned`: Specify whether a variable can hold negative values.
+    - `short` and `long`: Modify the size of the variable.
+
+Examples of combinations:
+    - `unsigned int`: An integer that cannot be negative.
+    - `long double`: A larger double-precision floating-point number.
+
+These data types allow C++ to handle a wide variety of data efficiently.

@@ -1,0 +1,6 @@
+An interface in C++ is a class that contains only pure virtual functions. It is used to define a contract or a set of rules that derived classes must follow. Interfaces are typically used to achieve abstraction and polymorphism in object-oriented programming. In C++, an interface is implemented by creating an abstract class with pure virtual functions, which are declared by assigning `= 0` to the function declaration.
+
+Key points about interfaces:
+1. Interfaces cannot be instantiated directly.
+2. Derived classes must provide implementations for all pure virtual functions.
+3. Interfaces allow multiple inheritance, enabling a class to implement multiple interfaces.

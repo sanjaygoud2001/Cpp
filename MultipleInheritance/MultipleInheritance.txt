@@ -1,0 +1,10 @@
+This class demonstrates the concept of multiple inheritance in programming.
+Multiple inheritance allows a class to inherit features (methods and properties)
+from more than one parent class. This can be useful for combining functionalities
+from different classes into a single class.
+
+Note: Some programming languages, like Python, support multiple inheritance directly,
+while others, like Java, do not support it but provide alternatives like interfaces.
+
+Use multiple inheritance carefully to avoid issues like the "Diamond Problem,"
+where ambiguity arises due to multiple inheritance paths.

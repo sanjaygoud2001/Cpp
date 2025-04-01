@@ -1,0 +1,10 @@
+Hybrid Inheritance:
+Hybrid inheritance is a combination of two or more types of inheritance in object-oriented programming.
+It allows a class to inherit properties and behaviors from multiple parent classes, 
+combining the features of single, multiple, hierarchical, or multilevel inheritance.
+
+This type of inheritance is used to model complex relationships where a class needs to 
+derive functionality from multiple sources while maintaining a clear and logical structure.
+
+Note: In some programming languages like Java, hybrid inheritance is achieved using interfaces 
+or abstract classes to avoid ambiguity caused by multiple inheritance.

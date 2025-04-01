@@ -1,0 +1,10 @@
+Hierarchical Inheritance:
+This is a type of inheritance in object-oriented programming where a single parent class
+is inherited by multiple child classes. Each child class can access and use the properties
+and methods of the parent class independently. This allows for code reuse and a clear 
+hierarchical structure in the class design.
+
+Benefits:
+- Promotes code reuse by sharing common functionality in the parent class.
+- Provides a clear and logical structure for related classes.
+- Simplifies maintenance and reduces redundancy in the codebase.

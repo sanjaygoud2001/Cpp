@@ -1,0 +1,10 @@
+A class demonstrating the use of a virtual destructor.
+
+The VirtualDestructor class is designed to showcase the importance of 
+declaring destructors as virtual in base classes. This ensures that 
+the destructors of derived classes are properly called during object 
+destruction, preventing resource leaks and undefined behavior.
+
+Use this class as a base class when polymorphism is required, and 
+always declare the destructor as virtual to ensure proper cleanup 
+of derived class resources.

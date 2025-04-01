@@ -1,0 +1,4 @@
+The `MultiLevelInheritance` class demonstrates the concept of multi-level inheritance in object-oriented programming.
+In multi-level inheritance, a class is derived from another derived class, forming a chain of inheritance.
+This allows the child class to inherit properties and methods from both its immediate parent class and the ancestor classes.
+This class serves as an example to showcase how functionality and attributes can be passed down through multiple levels of inheritance.

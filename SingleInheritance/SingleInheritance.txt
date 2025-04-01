@@ -1,0 +1,11 @@
+This class demonstrates the concept of Single Inheritance in object-oriented programming.
+Single Inheritance allows a class (child class) to inherit properties and methods 
+from another class (parent class). This promotes code reuse and establishes a 
+hierarchical relationship between classes.
+Key Features:
+- The child class inherits all non-private members (fields and methods) of the parent class.
+- The child class can override methods of the parent class to provide specific implementations.
+- Additional methods and fields can be added to the child class to extend functionality.
+Use Case:
+Single Inheritance is useful when you want to create a specialized version of an existing class 
+while reusing its functionality.
